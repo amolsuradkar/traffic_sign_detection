@@ -5,9 +5,10 @@
  # OPENCV
  # MATPLOTLIB
  
- #STRUCTURE 
- #folder:
- mydata:folder to store images for training ,all the iamges are stored are of size 32x32 size.Images are stored in sub-folders having class number as a folder name
+ # STRUCTURE 
+ folder:
+ # mydata:
+ folder to store images for training ,all the iamges are stored are of size 32x32 size.Images are stored in sub-folders having class number as a folder name
  data set contains has 43 diffrent classes ,means 43 diffrent sign boards are feeded to model for training.
  dataset contains more than 60000 images
  # train.ipynb: training the model 
